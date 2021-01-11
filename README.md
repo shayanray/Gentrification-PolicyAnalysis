@@ -1,7 +1,9 @@
-![Logo of the project]()
 
 # Name of the project
 Bicycle Transportation & Gentrification and Displacement in Southern California
+
+# Accomplishment
+Finalists in MIT Policy Hackathon 2020.
 
 ## Installing / Getting started
 
